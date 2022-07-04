@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/450974505_2593439129_2069972771.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_3964979212_367619441.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_2896758269_398444601.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_915057196_439456314.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_1646812372_2161162939.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_3799744002_1439742648.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_844605368_1966248075.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_3852583147_2687668360.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_733314733_2880387333.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_103455677_1467645261.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_1479894023_3599737465.mp4'
+file 'file:C:/Users/kesha/Documents/UBC/Animations/SpecialRelativity/media/videos/Trial2/1080p60/partial_movie_files/LinearTransformationSceneExample/34786186_398514950_1910885585.mp4'
